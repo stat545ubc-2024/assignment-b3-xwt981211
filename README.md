@@ -1,7 +1,7 @@
 # Movie Explorer Shiny App
 
 ## Description
-The Movie Explorer app allows users to filter and explore a collection of movies based on various criteria such as title, genre, rating, and year range. It also includes visualizations such as word clouds of movie titles, genre analysis, and budget vs rating plots. The app is designed to help users better explore a collection of movies from the `ggplot2movies` dataset.
+The Movie Explorer app allows users to filter and explore a collection of movies based on various criteria such as title, genre, rating, and year range. It also includes visualizations such as word clouds of movie titles, genre analysis, and budget vs rating plots. The app is designed to help users better explore a collection of movies from the `ggplot2movies` dataset and easier to find movies that interest them.
 
 ## Shiny App Link
 You can access the deployed app here: [Link to the Shiny App](https://xuwt1211.shinyapps.io/movieexplorer/)

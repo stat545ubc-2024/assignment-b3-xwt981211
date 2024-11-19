@@ -82,7 +82,7 @@ ui <- fluidPage(
 # Define Server
 server <- function(input, output, session) {
   
-  # Preprocess data, ensuring that missing budget values remain as NA
+  # Preprocess data, reorganize 'genre'
   data <- ggplot2movies::movies %>%
     mutate(
       Genre = case_when(
